@@ -1,1 +1,1 @@
-# AquaMonitor-downloads
+Download do aplicativo AquaMonitor para Android.
